@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheQuantumPikachu. Call me Mirage!
+- 👀 I’m interested in HTML, CSS, Python
+- 🌱 I’m currently learning Python, then hopefully later with C++ and Javascript
+- 💞️ I’m looking to collaborate on ... Nothing much yet
+- 📫 How to reach me ... N/A
