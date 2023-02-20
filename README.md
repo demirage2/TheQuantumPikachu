@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @TheQuantumPikachu.
-- 👀 I’m interested in HTML, CSS, JS, and Python
-- 🌱 I’m currently learning Webdev and Java
-- 💞️ I’m looking to collaborate on ... Nothing much yet
-- 📫 How to reach me ... N/A
+I'm really good at python (I can make a 1-liner to print hello world)
+I'm learning Java
